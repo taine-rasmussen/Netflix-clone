@@ -20,16 +20,17 @@ p{
 // MainPreview
 .main-preview-container{
     max-width: 95vw;
-    min-height: 85vh;
+    min-height: 90vh;
     display: flex;
     flex-wrap: wrap;
 }
 
 .main-preview-img{
     width: 95vw;
-    height: 85vh;
+    height: 90vh;
     z-index: 1;
-    margin-top: -38.1rem
+    margin-top: -38.1rem;
+    margin-bottom: -8rem;
 }
 
 

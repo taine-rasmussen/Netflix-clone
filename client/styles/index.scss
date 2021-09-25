@@ -1,11 +1,20 @@
+@import url(//db.onlinewebfonts.com/c/24a69b0d49de39034663d837a985f04b?family=BenguiatITCW01-BoldCn);
+
 body{
     background-color: black;
 }
 
 h1{
     color: #fff;
+    font-family: "BenguiatITCW01-BoldCn";
 }
 
+p{
+    color: #fff;
+}
+
+
+// MainPreview
 .main-preview-container{
     max-width: 90vw;
     min-height: 75vh;
@@ -16,4 +25,38 @@ h1{
 .main-preview-img{
     width: 90vw;
     height: 75vh;
+    z-index: 1;
+    margin-top: -14.6rem;
 }
+
+
+.main-preview-header-container{
+    z-index: 2;
+}
+
+.main-preview-text{
+    width: 300px;
+}
+
+.play-btn{
+    background-color:#fff;
+    color: black;
+    border: #fff 1px solid;
+    border-radius: 5px;
+    height: 50px;
+    width: 110px;
+    font-size: 1.25rem;
+    font-weight: bold;
+
+}
+
+.info-btn{
+    background-color: rgba(169, 169, 169, 0.604);
+    color: #fff;
+    border-radius: 8px;
+    height: 45px;
+    width: 105px;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+// MainPreview

@@ -8,12 +8,13 @@ const MainPreview = () => {
     return (
         <div className="main-preview-container">
             <div className="main-preview-header-container">
-                <div className="main-preview-header"><h1 className='main-header'>Stranger Things</h1></div>
-                    <div className="main-preview-text"><p>{text}</p></div>
-                        <div className="main-preview-btn-container">
-                            <button className="play-btn">▶ Play</button>
-                            <button className="info-btn">More Info</button>
-                        </div>
+                <div className="main-preview-header"><h1 className='main-header'>STRANGER</h1></div>
+                    <h1 className='main-header-btm'>THINGS</h1>
+                        <div className="main-preview-text"><p>{text}</p></div>
+                            <div className="main-preview-btn-container">
+                                <button className="play-btn">▶ Play</button>
+                                <button className="info-btn">More Info</button>
+                            </div>
             </div>
             <img src='/bg.jpeg' alt='Stranger Things image' className='main-preview-img' />
         </div>

@@ -1,11 +1,19 @@
 import React from 'react'
 
+
+// Components
+import Nav from './Nav'
+import MainPreview from './MainPreview'
+import Preview from './Preview'
+
 function App () {
 
   return (
     <>
       <div className='app'>
-        <h1>Netflix clone</h1>
+        <MainPreview />
+        <Preview />
+        <Nav />
       </div>
     </>
   )

@@ -4,8 +4,8 @@ import React from 'react'
 const MainPreview = () => {
 
     return (
-        <div>
-            <h1>Main Preview</h1>
+        <div className="main-preview-container">
+            <img src='/bg.jpeg' alt='Stranger Things image' className='main-preview-img' />
         </div>
     )
 }

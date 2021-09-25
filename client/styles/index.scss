@@ -7,6 +7,7 @@ body{
 h1{
     color: #fff;
     font-family: "BenguiatITCW01-BoldCn";
+    text-shadow: black 2px 2px 2px;
 }
 
 p{
@@ -16,15 +17,15 @@ p{
 
 // MainPreview
 .main-preview-container{
-    max-width: 90vw;
-    min-height: 75vh;
+    max-width: 95vw;
+    min-height: 80vh;
     display: flex;
     flex-wrap: wrap;
 }
 
 .main-preview-img{
-    width: 90vw;
-    height: 75vh;
+    width: 95vw;
+    height: 80vh;
     z-index: 1;
     margin-top: -38.1rem
 }
@@ -37,6 +38,7 @@ p{
     flex-wrap: wrap;
     width: 300px;
     align-items: center;
+    margin-left: 2rem;
 }
 
 .main-header{
@@ -45,6 +47,8 @@ p{
 
 .main-preview-text{
     width: 300px;
+    margin-top: -4rem;
+    margin-left: -2rem;
 }
 
 
@@ -57,6 +61,9 @@ p{
     width: 110px;
     font-size: 1.25rem;
     font-weight: bold;
+    margin-right: 5px;
+    margin-left: -95px;
+    margin-top: 20px;
 
 }
 

@@ -25,6 +25,13 @@ p{
 .main-preview-img{
     width: 90vw;
     height: 75vh;
+    z-index: 1;
+    margin-top: -11.1rem;
+}
+
+
+.main-preview-header-container{
+    z-index: 2;
 }
 
 .play-btn{

@@ -3,9 +3,7 @@ import React from 'react'
 
 const MainPreview = () => {
 
-    const text = 'When a young boy vanishes, a small town uncovers a mystery involving sercret experiments , terrifying supernatural forces & a strange little girl.'
-
-
+    const text = 'When a young boy vanishes, a small town uncovers a mystery involving sercret experiments, terrifying supernatural forces & a strange little girl.'
 
     return (
         <div className="main-preview-container">

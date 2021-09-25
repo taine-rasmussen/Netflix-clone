@@ -18,14 +18,14 @@ p{
 // MainPreview
 .main-preview-container{
     max-width: 95vw;
-    min-height: 80vh;
+    min-height: 85vh;
     display: flex;
     flex-wrap: wrap;
 }
 
 .main-preview-img{
     width: 95vw;
-    height: 80vh;
+    height: 85vh;
     z-index: 1;
     margin-top: -38.1rem
 }
@@ -47,7 +47,7 @@ p{
 
 .main-header-btm{
     font-size: 6rem;
-    
+    margin-top: -6rem;
 }
 
 .main-preview-text{

@@ -30,6 +30,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     margin-left: 4.5rem;
+    z-index: 2;
 }
 
 .main-preview-img{
@@ -89,3 +90,13 @@ p{
     font-weight: bold;
 }
 // MainPreview
+// Nav
+.nav-container{
+    width: 8vw;
+    height: 100vh;
+    border: 2px solid #fff;
+    z-index: 999;
+    margin-top: -44.5rem;
+}
+// Nav
+

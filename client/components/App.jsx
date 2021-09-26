@@ -11,8 +11,8 @@ function App () {
     <>
       <div className='app'>
         <MainPreview />
-        <Preview />
         <Nav />
+        <Preview />
       </div>
     </>
   )

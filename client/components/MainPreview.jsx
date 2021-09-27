@@ -22,4 +22,10 @@ const MainPreview = () => {
 }
 
 
+
+
+
+// afermations in the mirror! buiud the habbit!
+
+
 export default MainPreview

@@ -4,8 +4,31 @@ import React from 'react'
 const Preview = () => {
 
     return (
-        <div>
-            <h1>Preview</h1>
+        <div className="preview-container">
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
+            <div className='preview-img'>
+                <img src="preview1.jpeg" alt="tv show poster"/>
+            </div>
         </div>
     )
 }

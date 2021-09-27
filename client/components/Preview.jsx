@@ -26,9 +26,6 @@ const Preview = () => {
             <div className='preview-img-container'>
                 <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
-            <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
-            </div>
         </div>
     )
 }

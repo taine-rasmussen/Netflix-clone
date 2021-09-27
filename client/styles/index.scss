@@ -96,6 +96,9 @@ p{
     height: 10vh;
     width: 90vw;
     border: 1px solid #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .preivew-img-container{
@@ -103,7 +106,8 @@ p{
 }
 
 .preview-img{
-
+    height: 270px;
+    width: 185px;
 }
 // Preview
 // Nav

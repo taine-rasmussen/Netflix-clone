@@ -7,7 +7,7 @@ const Preview = () => {
         <div className="preview-container">
             <div className='preview-img-container'>
                 <h2 className="preview-header">Trending Now</h2>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview2.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
                 <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>

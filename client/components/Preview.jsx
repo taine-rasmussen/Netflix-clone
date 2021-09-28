@@ -10,7 +10,7 @@ const Preview = () => {
                 <img src="preview2.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview3.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
                 <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>

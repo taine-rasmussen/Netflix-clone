@@ -129,16 +129,30 @@ p{
 }
 // Nav
 .nav-container{
-    border: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
 }
 .search-icon{
     color: #fff;
     margin-top: 20rem;
     margin-left: 3rem;
+    transform: scale(1.5);
+    z-index: 90;
 }
 
+.home-icon{
+    color: #fff;
+    margin-left: 3.5rem;  
+    margin-top: 3rem;
+    transform: scale(2);
+    z-index: 90;
+}
+
+.home-icon:hover{
+    color: red;
+}
 .search-icon:hover{
-    border-bottom: red;
+    color: red;
 }
 // Nav
 

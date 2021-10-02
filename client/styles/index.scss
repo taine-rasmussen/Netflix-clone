@@ -100,7 +100,7 @@ p{
     width: 90vw;
     display: flex;
     flex-direction: row;
-    margin-top: -14rem;
+    margin-top: -13rem;
     margin-left: 7rem;
 }
 
@@ -126,6 +126,19 @@ p{
     height: 100vh;
     z-index: 999;
     margin-top: -44.5rem;
+}
+// Nav
+.nav-container{
+    border: 2px solid #fff;
+}
+.search-icon{
+    color: #fff;
+    margin-top: 20rem;
+    margin-left: 3rem;
+}
+
+.search-icon:hover{
+    border-bottom: red;
 }
 // Nav
 

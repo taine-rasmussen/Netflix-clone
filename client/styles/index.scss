@@ -129,12 +129,13 @@ p{
 }
 // Nav
 .nav-container{
-    border: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
 }
 .search-icon{
     color: #fff;
     margin-top: 20rem;
-    margin-left: 3rem;
+    margin-left: 2.5rem;
 }
 
 .search-icon:hover{

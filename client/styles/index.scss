@@ -35,8 +35,8 @@ p{
 }
 
 .main-preview-img{
-    width: 95vw;
-    height: 90vh;
+    width: 90vw;
+    height: 85vh;
     z-index: -99;
     margin-top: -38.1rem;
     margin-bottom: -8rem;
@@ -100,7 +100,7 @@ p{
     width: 90vw;
     display: flex;
     flex-direction: row;
-    margin-top: -13rem;
+    margin-top: -14rem;
     margin-left: 7rem;
 }
 
@@ -111,9 +111,13 @@ p{
 }
 
 .preview-img{
-    height: 190px;
+    height: 200px;
     width: 145px;
-    margin: 5px;
+    margin: 8px;
+}
+
+.preview-img:hover{
+    transform: scale(1.1);
 }
 // Preview
 // Nav

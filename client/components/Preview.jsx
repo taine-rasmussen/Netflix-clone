@@ -16,19 +16,19 @@ const Preview = () => {
                 <img src="preview4.jpg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview5.jpg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview6.jpg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview7.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview8.jpg" className="preview-img" alt="tv show poster"/>
             </div>
             <div className='preview-img-container'>
-                <img src="preview1.jpeg" className="preview-img" alt="tv show poster"/>
+                <img src="preview9.jpeg" className="preview-img" alt="tv show poster"/>
             </div>
         </div>
     )
